@@ -1,0 +1,7 @@
+a=input("enter  a number:")
+length=len(a)
+print(length)
+
+output:
+enter  a number:123456789
+9
